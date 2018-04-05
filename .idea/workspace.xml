@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e191c3b0-4b97-472d-a73d-d9a94bd0ce07" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/assets/images/no-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../thptyd3/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/layouts/layout-static.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/blog/blog.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/version.yaml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/07/44/gallery.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/1a/71/sidebar.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/23/15/default.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/52/01/slider.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/52/db/header.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/6a/dd/contact.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/70/45/footer.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/85/7c/sidebar_left.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/8f/6b/category.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/a3/35/page.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/a9/c1/fallback.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/b5/93/about-us.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/c6/94/404.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/c9/de/ajax.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/cb/ab/footer.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/cf/92/header.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/eb/d8/post.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/cache/ed/8f/home.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/01/01402a40c2ab5481ac371357e08c06866901f13f3bc1c706c2bfb33f25bc70dc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/0a/0afea96bbe33c51e75f61446f225e869d18a46aafc97495d6e2983b6e3049706.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/16/16766ed735776cc7b8c5e5c4343d554d9dffd3e64ef09e31a792b9b385c01e97.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/3b/3b36134704cc5e136a2450fc2be9638640a9590f4cbdbed02157c7e0413f3951.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/40/40eeb7e11bf9f872f0059eaeecf6ff1e9097e94cadba5021fc20ff12a215dbf4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/70/7057ae146c5582d1a24e18ca7b6e5b594eddc9e0bfb52b4507b240ad6b93aa8b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/83/832085789ec3778bf84d77e5688e419d424666f0f37b6630292c3a70ba496f24.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/84/8464f9f7666b791029cacb4c3af836c3d8fedb6b433f12517b8bf9e5875d534a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/a4/a46a20b486b78242fad6dddf2fd6352a39ee47e5fad949461b2fe10c7092f4be.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/a9/a94c7be38bb1e0d658d58f1c4b4de13a09f66864b74b4d0c6397494e641dfd71.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/ab/ab13e552ecbeaeaa4272832974564c76b53d13e96dae9fc04910ee1105f52def.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/af/af2fa9e0d16b2a9596f68d88d203dde096fd8d31084a8beaa967a26975ec6802.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/bc/bc11b2272454649c79ffe6b62f494056adddd517632ffaf948c5841550f9de1a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/d5/d585b012057bb93dcd3559fdbba403e17a282ba0e9d729adf368198ffca72df5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/de/de91604a0409dd20f3ebcb419eb5e3c44344760694de15fa643f3385496b8024.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/ef/ef0e87d4a6bab304b05f6fec65a2027242b34273b0907b3945a8219067c590c1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/f6/f65dbd9875d67c5a4909d95e4f83719fb3caabe91a00399cdd8f735fc29f0ffa.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/cms/twig/fc/fcf345e61c26e85f94bccb8dc376f2a97ac1537ed979b7cb0b13aceac669b405.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/01/5c/015c6531d53c45a0c4191441767da3d2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/06/28/0628692c17b756d5bec1320903ff1b78" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/21/fc/21fc990064f78a2e1777dcf293855a9f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/30/57/305764c113b37b0e58059541d62c3872" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/33/7b/337bdaf25a88e699ea18142f5e7946b6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/35/50/3550981414fe5870326dcca3cd0e8e8f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/41/12/4112169abdc00acc16aef5826c6abb19" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/4a/a0/4aa0f16757ccbb8f741f4518446aedc4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/4f/50/4f50dd00e0e24f9598055b859c7f10b2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/59/16/5916b422294b1b84b7137816642e5625" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/60/92/6092f12922a2e92b9326eda3034141f9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/6e/3e/6e3ee0926279e3c064674d21d90ae6e0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/74/b7/74b75f772cfa6da08568f1979551c709" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/75/ba/75ba48933519598705c4d4cd0690c5b3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/8c/01/8c015e7ae4dd1bdd45d287c04bbadf77" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/8d/34/8d343fda0a8bd48d669d03838e035066" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/a0/4d/a04d478556f1bda3511cce48c0584203" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/a3/14/a3143b52fd9edc53f2f29d544d934469" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/a6/b4/a6b4cdad9aae31a4658e7f72fc412c59" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/ac/09/ac091a88a262919299bb4af7f5fa96ed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/b3/40/b3400be9590a4786d79a0a75a1cee05c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/ca/35/ca35623b7eefcf8e86fb9f6cfc4f1f9a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/d6/c8/d6c8ddf595ba3feda1249342c1346253" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/d8/3a/d83aaf75cc37e3608daf30fd459bea1d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/de/90/de90dae5bdace9a9bc8aee0a09e9bf76" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/f5/71/f57140e6a0ac15746ac37d3ba3860405" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/f6/36/f6364b8ff03f5d80afad38c13b1860a8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/sessions/1a86f1dee4b011643a2db2f7481abe67f355b023" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/assets/images/theme-preview.png" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/assets/images/theme-preview.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../thptyd3/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/plugins/rainlab/blog/components/categories/items.htm" afterPath="$PROJECT_DIR$/../thptyd3/plugins/rainlab/blog/components/categories/items.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/1a/35/1a3565c4ad91f449b79a29ea5b60a58b" afterPath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/1a/35/1a3565c4ad91f449b79a29ea5b60a58b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/47/03/470330a89a0b480aca1ece1e4539f1ad" afterPath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/47/03/470330a89a0b480aca1ece1e4539f1ad" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/50/35/5035b0c1e1f82379067d38f8383c7b5d" afterPath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/50/35/5035b0c1e1f82379067d38f8383c7b5d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/5e/5e/5e5ec738a988de4a91aec04f81fd8768" afterPath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/5e/5e/5e5ec738a988de4a91aec04f81fd8768" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/6f/62/6f62ddb592d31134e2836840a465439e" afterPath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/6f/62/6f62ddb592d31134e2836840a465439e" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/8c/53/8c53ed3bfd167d2f85044017a3c25db9" afterPath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/8c/53/8c53ed3bfd167d2f85044017a3c25db9" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/91/29/91294d49cb9a518203d98de00c87f985" afterPath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/91/29/91294d49cb9a518203d98de00c87f985" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/91/aa/91aaeb3d3720451f3d8056ef80f92eff" afterPath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/91/aa/91aaeb3d3720451f3d8056ef80f92eff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/9c/0f/9c0f4cfb8303e4bcdb8e266a400b3ecf" afterPath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/9c/0f/9c0f4cfb8303e4bcdb8e266a400b3ecf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/a1/f7/a1f74de7779d5838a058998a9dfe30db" afterPath="$PROJECT_DIR$/../thptyd3/storage/framework/cache/a1/f7/a1f74de7779d5838a058998a9dfe30db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/assets/css/main.css" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/layouts/default.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/layouts/default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/404.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/404.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/about-us.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/about-us.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/blog/category.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/blog/category.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/blog/post.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/blog/post.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/contact.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/contact.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/gallery.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/gallery.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/home.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/pages/home.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/partials/header.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/partials/header.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/partials/sidebar_left.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/partials/sidebar_left.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/partials/slider.htm" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/partials/slider.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../thptyd3/themes/kenshin/theme.yaml" afterPath="$PROJECT_DIR$/../thptyd3/themes/kenshin/theme.yaml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="1558" column="24" lean-forward="true" selection-start-line="1558" selection-start-column="24" selection-end-line="1558" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video-detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/video-detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="160" column="54" lean-forward="true" selection-start-line="160" selection-start-column="54" selection-end-line="160" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tv-online.html" pinned="false" current-in-tab="false">
+        <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/tv-online.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="104" column="37" lean-forward="true" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newspaper.html" pinned="false" current-in-tab="true">
+        <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/newspaper.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="48" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compatibility.js" pinned="false" current-in-tab="false">
+        <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/flipbook/compatibility.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newspapers.css" pinned="false" current-in-tab="false">
+        <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/newspapers.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="356" column="16" lean-forward="false" selection-start-line="356" selection-start-column="16" selection-end-line="356" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-29">
+              <caret line="12" column="60" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="60" />
+              <folding>
+                <element signature="e#58505#58511#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="81" column="9" lean-forward="true" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.css" pinned="false" current-in-tab="false">
+        <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/menu.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1344">
+              <caret line="256" column="17" lean-forward="false" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="preloader.css" pinned="false" current-in-tab="false">
+        <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/preloader.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ideaboxWeather</find>
+      <find>#cssmenu &gt; ul &gt; li &gt; a</find>
+      <find>header-menu</find>
+      <find>#cssmenu ul ul</find>
+      <find>#cssmenu ul ul li:hover &gt; a, #cssmenu ul ul li a:hover</find>
+      <find>menu-nav</find>
+      <find>.menu-nav</find>
+      <find>header-content</find>
+      <find>#cssmenu .submenu-button:before</find>
+      <find>480</find>
+      <find>courses</find>
+      <find>if</find>
+      <find>tg-relatedthemeposts</find>
+      <find>.tg-themepost</find>
+      <find>.tg-borderheading</find>
+      <find>.tg-latestnewsslider.owl-carousel .owl-nav</find>
+      <find>duration</find>
+      <find>.tg-comment</find>
+      <find>.tg-titleborder h2</find>
+      <find>#cssmenu .submenu-button</find>
+      <find>.newspaper-item img</find>
+      <find>.tivi .tivi-item</find>
+      <find>pages</find>
+      <find>img</find>
+      <find>logo</find>
+      <find>fb5-logo</find>
+      <find>#cssmenu .submenu-button:after</find>
+      <find>#cssmenu .submenu-button.submenu-opened:after</find>
+      <find>#cssmenu #menu-button:after</find>
+      <find>mCustomScrollbar</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.js'|theme }}&quot;</replace>
+      <replace>src=&quot;{{ 'assets/</replace>
+      <replace>&quot;</replace>
+      <replace>href=&quot;{{ 'assets/</replace>
+      <replace>src=&quot;{{ '</replace>
+      <replace>'|theme }}&quot;</replace>
+      <replace>.jpg'|theme }}&quot;</replace>
+      <replace>src=&quot;{{'</replace>
+      <replace>.png'|theme }}&quot;</replace>
+      <replace>href=&quot;&quot;&gt;</replace>
+      <replace>video-item-info</replace>
+      <replace>newspaper-item</replace>
+      <replace>Số 1737 ngày 8/1/2018</replace>
+      <replace>relasted</replace>
+      <replace>images</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\xampp7\htdocs\html-olympus</dir>
+      <dir>E:\xampp7\htdocs\xukachan\themes\shizuka</dir>
+      <dir>E:\xampp7\htdocs\xukachan</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../thptyd3" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/plugins/kenshin/facebook/updates/version.yaml" />
+        <option value="$PROJECT_DIR$/plugins/kenshin/facebook/components/message/default.htm" />
+        <option value="$PROJECT_DIR$/themes/shizuka/assets/css/flexslider.css" />
+        <option value="$PROJECT_DIR$/themes/shizuka/assets/css/jquery.rating.css" />
+        <option value="$PROJECT_DIR$/plugins/bedard/blogtags/components/BlogTags.php" />
+        <option value="$PROJECT_DIR$/plugins/bedard/blogtags/components/blogtags/default.htm" />
+        <option value="$PROJECT_DIR$/themes/shizuka/pages/blog/post.htm" />
+        <option value="$PROJECT_DIR$/plugins/bedard/blogtags/components/BlogTagSearch.php" />
+        <option value="$PROJECT_DIR$/themes/shizuka/pages/blog/tags.htm" />
+        <option value="$PROJECT_DIR$/themes/shizuka/partials/slider.htm" />
+        <option value="$PROJECT_DIR$/themes/shizuka/partials/footer.htm" />
+        <option value="$PROJECT_DIR$/themes/shizuka/assets/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/themes/shizuka/partials/header.htm" />
+        <option value="$PROJECT_DIR$/plugins/rainlab/pages/components/staticmenu/items.htm" />
+        <option value="$PROJECT_DIR$/themes/shizuka/layouts/default.htm" />
+        <option value="$PROJECT_DIR$/themes/shizuka/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/theme.yaml" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/partials/footer.htm" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/assets/css/animate.css" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/assets/lib/jquery/jquery-ui.js" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/partials/slider.htm" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/pages/home.htm" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/assets/js/theme-script.js" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/pages/product/category.htm" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/partials/menu.htm" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/pages/product/detail.htm" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/partials/header.htm" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/layouts/home.htm" />
+        <option value="$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/layouts/default.htm" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/menu.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/jquery.mCustomScrollbar.css" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/slick.css" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/slick-theme.css" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/newspaper/magazine.js" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/magazine.css" />
+        <option value="$USER_HOME$/Desktop/Orion - Responsive menu.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/ideaboxWeather.js" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/tv-online.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/newspaper-category.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/search-category.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/video-category.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/news-category.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/news-detail.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/preloader.css" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/newspaper.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/newspapers.css" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/menu.css" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/index.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/common.js" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/video-detail.html" />
+        <option value="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/main.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="128" />
+    <option name="y" value="141" />
+    <option name="width" value="1226" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xukachan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="xukachan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="xukachan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="xukachan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="flipbook" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html-olympus" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PROJECTS\vistar\vttc-laichau-news\02_Source\html\js\flipbook" />
+      <recent name="E:\PROJECTS\vistar\vttc-laichau-news\02_Source\html\images" />
+      <recent name="E:\PROJECTS\vistar\vttc-laichau-news\02_Source\html\css" />
+      <recent name="E:\PROJECTS\vistar\vttc-laichau-news\02_Source\html\images\newspaper" />
+      <recent name="E:\PROJECTS\vistar\vttc-laichau-news\02_Source\html\images\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp7\htdocs\xukachan\plugins\kenshin\facebook\assets\javascript" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.tv-online.html">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xukachan/index.html" />
+    <configuration name="news-category.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xukachan/news-category.html" />
+    <configuration name="news-detail.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xukachan/news-detail.html" />
+    <configuration name="tv-online.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xukachan/tv-online.html" />
+    <configuration name="video-category.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xukachan/video-category.html" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.news-category.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.news-detail.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.video-category.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.tv-online.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.tv-online.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.video-category.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.news-detail.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.news-category.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e191c3b0-4b97-472d-a73d-d9a94bd0ce07" name="Default" comment="" />
+      <created>1508643204842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508643204842</updated>
+      <workItem from="1508643209498" duration="6376000" />
+      <workItem from="1508753597000" duration="10279000" />
+      <workItem from="1508851762756" duration="2029000" />
+      <workItem from="1508924741659" duration="870000" />
+      <workItem from="1509015601343" duration="2415000" />
+      <workItem from="1509106670721" duration="4206000" />
+      <workItem from="1509159716054" duration="15302000" />
+      <workItem from="1509241905588" duration="22058000" />
+      <workItem from="1509446853815" duration="2201000" />
+      <workItem from="1509755221547" duration="2839000" />
+      <workItem from="1509792935978" duration="1253000" />
+      <workItem from="1509814298653" duration="615000" />
+      <workItem from="1509843452142" duration="1741000" />
+      <workItem from="1510141319250" duration="6062000" />
+      <workItem from="1510220467321" duration="2041000" />
+      <workItem from="1510842678006" duration="2663000" />
+      <workItem from="1510868347603" duration="2294000" />
+      <workItem from="1510911489094" duration="11269000" />
+      <workItem from="1511047309686" duration="4614000" />
+      <workItem from="1511270683791" duration="5224000" />
+      <workItem from="1512041899559" duration="591000" />
+      <workItem from="1514217248964" duration="81000" />
+      <workItem from="1514298285740" duration="5355000" />
+      <workItem from="1514307887992" duration="548000" />
+      <workItem from="1514375211982" duration="6588000" />
+      <workItem from="1514477535759" duration="10710000" />
+      <workItem from="1514534399731" duration="12492000" />
+      <workItem from="1514606301312" duration="5960000" />
+      <workItem from="1514650060611" duration="6018000" />
+      <workItem from="1514714641921" duration="745000" />
+      <workItem from="1514744754143" duration="5874000" />
+      <workItem from="1514791570817" duration="2406000" />
+      <workItem from="1514807619743" duration="7656000" />
+      <workItem from="1514892909842" duration="8715000" />
+      <workItem from="1514992448749" duration="4020000" />
+      <workItem from="1515076572218" duration="2673000" />
+      <workItem from="1515203768979" duration="1491000" />
+      <workItem from="1515251974229" duration="3180000" />
+      <workItem from="1515289498617" duration="597000" />
+      <workItem from="1515328492408" duration="498000" />
+      <workItem from="1515412957129" duration="7993000" />
+      <workItem from="1515509188047" duration="2923000" />
+      <workItem from="1515598008488" duration="1514000" />
+      <workItem from="1515685052201" duration="2977000" />
+      <workItem from="1515688823457" duration="4000" />
+      <workItem from="1515806789239" duration="3647000" />
+      <workItem from="1515816465706" duration="15330000" />
+      <workItem from="1515856715673" duration="4564000" />
+      <workItem from="1516112161736" duration="5906000" />
+      <workItem from="1516288933679" duration="6467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="243874000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16837482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/pages/product/category.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5763">
+          <caret line="339" column="91" lean-forward="false" selection-start-line="339" selection-start-column="76" selection-end-line="339" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="154" column="86" lean-forward="false" selection-start-line="154" selection-start-column="77" selection-end-line="154" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/partials/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="114" column="30" lean-forward="false" selection-start-line="114" selection-start-column="30" selection-end-line="114" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/layouts/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/layouts/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../banhang/themes/kenshinEcommerce/pages/product/detail.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3417">
+          <caret line="201" column="35" lean-forward="false" selection-start-line="193" selection-start-column="16" selection-end-line="201" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/fontawesome-all.css" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/fontawesome.css" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/jquery-1.10.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/menu.html" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/jquery.mCustomScrollbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="53" column="51" lean-forward="false" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/jquery.mCustomScrollbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/flat-ui.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/slick-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/newspaper/modernizr.2.5.3.min.js" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/newspaper/hash.js" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/newspaper/zoom.min.js" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/images/newspaper/2-regions.json" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/images/newspaper/1-regions.json" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/newspaper/magazine.js" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/slick.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4782">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/slick.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="17" lean-forward="false" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/video.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Orion - Responsive menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="49" lean-forward="false" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/ideaboxWeather.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="75" lean-forward="false" selection-start-line="97" selection-start-column="75" selection-end-line="97" selection-end-column="75" />
+          <folding>
+            <marker date="1514567396105" expanded="true" signature="3149:3185" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/menu.bk.css" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/jquery-library.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/news-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="169" column="26" lean-forward="false" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/video-category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="68" column="38" lean-forward="true" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/news-category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="458" column="30" lean-forward="false" selection-start-line="458" selection-start-column="30" selection-end-line="458" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/search-category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="114" column="65" lean-forward="false" selection-start-line="114" selection-start-column="65" selection-end-line="114" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/newspaper-category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="131" column="6" lean-forward="false" selection-start-line="131" selection-start-column="6" selection-end-line="131" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/popper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/magazine.css" />
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/preloader.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/flipbook/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/flipbook/compatibility.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/newspapers.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="356" column="16" lean-forward="false" selection-start-line="356" selection-start-column="16" selection-end-line="356" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1344">
+          <caret line="256" column="17" lean-forward="false" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="12" column="60" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="60" />
+          <folding>
+            <element signature="e#58505#58511#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/tv-online.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="104" column="37" lean-forward="true" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/video-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="160" column="54" lean-forward="true" selection-start-line="160" selection-start-column="54" selection-end-line="160" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="1558" column="24" lean-forward="true" selection-start-line="1558" selection-start-column="24" selection-end-line="1558" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="81" column="9" lean-forward="true" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/newspaper.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#2;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../banhang/.idea/banhang.iml" filepath="$PROJECT_DIR$/../banhang/.idea/banhang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blog/.idea/blog.iml" filepath="$PROJECT_DIR$/../blog/.idea/blog.iml" />
+      <module fileurl="file://E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/.idea/html.iml" filepath="E:/PROJECTS/vistar/vttc-laichau-news/02_Source/html/.idea/html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../html-olympus/.idea/html-olympus.iml" filepath="$PROJECT_DIR$/../html-olympus/.idea/html-olympus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thptyd3/.idea/thptyd3.iml" filepath="$PROJECT_DIR$/../thptyd3/.idea/thptyd3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xukachan.iml" filepath="$PROJECT_DIR$/.idea/xukachan.iml" />
+    </modules>
+  </component>
+</project>

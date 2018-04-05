@@ -1,0 +1,90 @@
+1521386369a:1:{s:10:"header.htm";a:7:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:1884:"[staticMenu]
+code = "main-menu"
+
+[viewBag]
+==
+<div id="page">
+
+    <header id="header" class="container">
+        <div id="mast-head">
+            <div id="logo">
+                <a href="/" title="Magazine" rel="home"><img src="{{ 'assets/images/logo.png'|theme }}" alt="logo" /></a>
+            </div>
+        </div>
+        <nav class="navbar navbar-inverse clearfix nobot">
+            <a id="responsive-menu-button" href="#swipe-menu">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+            <div class="nav-collapse" id="swipe-menu-responsive">
+
+                {% if staticMenu.menuItems %}
+                <ul class="nav">
+                    <li>
+                    <span id="close-menu">
+                        <a href="#" class="close-this-menu">Close</a>
+                            <script type="text/javascript">
+                                jQuery('a.sidr-class-close-this-menu').click(function(){
+                                    jQuery('div.sidr').css({
+                                        'right': '-476px'
+                                    });
+                                    jQuery('body').css({
+                                        'right': '0'
+                                    });
+                                });
+                            </script>
+
+                    </span>
+                    </li>
+                    {% partial staticMenu ~ "::items" items=staticMenu.menuItems %}
+                </ul>
+                {% endif %}
+            </div><!--/.nav-collapse -->
+
+        </nav><!-- /.navbar -->
+
+    </header><!-- #masthead -->";s:5:"mtime";i:1510868402;s:6:"markup";s:1833:"<div id="page">
+
+    <header id="header" class="container">
+        <div id="mast-head">
+            <div id="logo">
+                <a href="/" title="Magazine" rel="home"><img src="{{ 'assets/images/logo.png'|theme }}" alt="logo" /></a>
+            </div>
+        </div>
+        <nav class="navbar navbar-inverse clearfix nobot">
+            <a id="responsive-menu-button" href="#swipe-menu">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+            <div class="nav-collapse" id="swipe-menu-responsive">
+
+                {% if staticMenu.menuItems %}
+                <ul class="nav">
+                    <li>
+                    <span id="close-menu">
+                        <a href="#" class="close-this-menu">Close</a>
+                            <script type="text/javascript">
+                                jQuery('a.sidr-class-close-this-menu').click(function(){
+                                    jQuery('div.sidr').css({
+                                        'right': '-476px'
+                                    });
+                                    jQuery('body').css({
+                                        'right': '0'
+                                    });
+                                });
+                            </script>
+
+                    </span>
+                    </li>
+                    {% partial staticMenu ~ "::items" items=staticMenu.menuItems %}
+                </ul>
+                {% endif %}
+            </div><!--/.nav-collapse -->
+
+        </nav><!-- /.navbar -->
+
+    </header><!-- #masthead -->";s:4:"code";N;s:10:"staticMenu";a:1:{s:4:"code";s:9:"main-menu";}s:7:"viewBag";a:0:{}}}

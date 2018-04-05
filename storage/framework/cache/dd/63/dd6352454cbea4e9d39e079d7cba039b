@@ -1,0 +1,77 @@
+1521386370a:1:{s:14:"main-menu.yaml";a:7:{s:8:"fileName";s:14:"main-menu.yaml";s:7:"content";s:1848:"name: 'Main Menu'
+items:
+    -
+        title: Home
+        nesting: ''
+        type: cms-page
+        url: ''
+        code: ''
+        reference: home
+        cmsPage: ''
+        replace: ''
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Java
+        nesting: '0'
+        type: blog-category
+        code: ''
+        reference: '2'
+        cmsPage: blog/category
+        replace: '0'
+        viewBag:
+            isHidden: '0'
+            cssClass: dropdown
+            isExternal: '0'
+        items:
+            -
+                title: 'Spring boot'
+                nesting: '0'
+                type: blog-category
+                code: ''
+                reference: '3'
+                cmsPage: blog/category
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Spring Security'
+                nesting: '0'
+                type: blog-category
+                code: ''
+                reference: '4'
+                cmsPage: blog/category
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+    -
+        title: 'October CMS'
+        nesting: '0'
+        type: blog-category
+        code: ''
+        reference: '5'
+        cmsPage: blog/category
+        replace: '0'
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Nodejs
+        nesting: '0'
+        type: blog-category
+        code: ''
+        reference: '6'
+        cmsPage: blog/category
+        replace: '0'
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+";s:5:"mtime";i:1509209226;s:6:"markup";N;s:4:"code";N;s:4:"name";s:9:"Main Menu";s:5:"items";a:4:{i:0;O:30:"RainLab\Pages\Classes\MenuItem":13:{s:5:"title";s:4:"Home";s:5:"items";a:0:{}s:6:"parent";N;s:7:"nesting";s:0:"";s:4:"type";s:8:"cms-page";s:3:"url";s:0:"";s:4:"code";s:0:"";s:9:"reference";s:4:"home";s:7:"replace";s:0:"";s:7:"cmsPage";s:0:"";s:6:"exists";b:0;s:8:"fillable";a:9:{i:0;s:5:"title";i:1;s:7:"nesting";i:2;s:4:"type";i:3;s:3:"url";i:4;s:4:"code";i:5;s:9:"reference";i:6;s:7:"cmsPage";i:7;s:7:"replace";i:8;s:7:"viewBag";}s:7:"viewBag";a:3:{s:8:"isHidden";s:1:"0";s:8:"cssClass";s:0:"";s:10:"isExternal";s:1:"0";}}i:1;O:30:"RainLab\Pages\Classes\MenuItem":13:{s:5:"title";s:4:"Java";s:5:"items";a:2:{i:0;O:30:"RainLab\Pages\Classes\MenuItem":13:{s:5:"title";s:11:"Spring boot";s:5:"items";a:0:{}s:6:"parent";N;s:7:"nesting";s:1:"0";s:4:"type";s:13:"blog-category";s:3:"url";N;s:4:"code";s:0:"";s:9:"reference";s:1:"3";s:7:"replace";s:1:"0";s:7:"cmsPage";s:13:"blog/category";s:6:"exists";b:0;s:8:"fillable";a:9:{i:0;s:5:"title";i:1;s:7:"nesting";i:2;s:4:"type";i:3;s:3:"url";i:4;s:4:"code";i:5;s:9:"reference";i:6;s:7:"cmsPage";i:7;s:7:"replace";i:8;s:7:"viewBag";}s:7:"viewBag";a:3:{s:8:"isHidden";s:1:"0";s:8:"cssClass";s:0:"";s:10:"isExternal";s:1:"0";}}i:1;O:30:"RainLab\Pages\Classes\MenuItem":13:{s:5:"title";s:15:"Spring Security";s:5:"items";a:0:{}s:6:"parent";N;s:7:"nesting";s:1:"0";s:4:"type";s:13:"blog-category";s:3:"url";N;s:4:"code";s:0:"";s:9:"reference";s:1:"4";s:7:"replace";s:1:"0";s:7:"cmsPage";s:13:"blog/category";s:6:"exists";b:0;s:8:"fillable";a:9:{i:0;s:5:"title";i:1;s:7:"nesting";i:2;s:4:"type";i:3;s:3:"url";i:4;s:4:"code";i:5;s:9:"reference";i:6;s:7:"cmsPage";i:7;s:7:"replace";i:8;s:7:"viewBag";}s:7:"viewBag";a:3:{s:8:"isHidden";s:1:"0";s:8:"cssClass";s:0:"";s:10:"isExternal";s:1:"0";}}}s:6:"parent";N;s:7:"nesting";s:1:"0";s:4:"type";s:13:"blog-category";s:3:"url";N;s:4:"code";s:0:"";s:9:"reference";s:1:"2";s:7:"replace";s:1:"0";s:7:"cmsPage";s:13:"blog/category";s:6:"exists";b:0;s:8:"fillable";a:9:{i:0;s:5:"title";i:1;s:7:"nesting";i:2;s:4:"type";i:3;s:3:"url";i:4;s:4:"code";i:5;s:9:"reference";i:6;s:7:"cmsPage";i:7;s:7:"replace";i:8;s:7:"viewBag";}s:7:"viewBag";a:3:{s:8:"isHidden";s:1:"0";s:8:"cssClass";s:8:"dropdown";s:10:"isExternal";s:1:"0";}}i:2;O:30:"RainLab\Pages\Classes\MenuItem":13:{s:5:"title";s:11:"October CMS";s:5:"items";a:0:{}s:6:"parent";N;s:7:"nesting";s:1:"0";s:4:"type";s:13:"blog-category";s:3:"url";N;s:4:"code";s:0:"";s:9:"reference";s:1:"5";s:7:"replace";s:1:"0";s:7:"cmsPage";s:13:"blog/category";s:6:"exists";b:0;s:8:"fillable";a:9:{i:0;s:5:"title";i:1;s:7:"nesting";i:2;s:4:"type";i:3;s:3:"url";i:4;s:4:"code";i:5;s:9:"reference";i:6;s:7:"cmsPage";i:7;s:7:"replace";i:8;s:7:"viewBag";}s:7:"viewBag";a:3:{s:8:"isHidden";s:1:"0";s:8:"cssClass";s:0:"";s:10:"isExternal";s:1:"0";}}i:3;O:30:"RainLab\Pages\Classes\MenuItem":13:{s:5:"title";s:6:"Nodejs";s:5:"items";a:0:{}s:6:"parent";N;s:7:"nesting";s:1:"0";s:4:"type";s:13:"blog-category";s:3:"url";N;s:4:"code";s:0:"";s:9:"reference";s:1:"6";s:7:"replace";s:1:"0";s:7:"cmsPage";s:13:"blog/category";s:6:"exists";b:0;s:8:"fillable";a:9:{i:0;s:5:"title";i:1;s:7:"nesting";i:2;s:4:"type";i:3;s:3:"url";i:4;s:4:"code";i:5;s:9:"reference";i:6;s:7:"cmsPage";i:7;s:7:"replace";i:8;s:7:"viewBag";}s:7:"viewBag";a:3:{s:8:"isHidden";s:1:"0";s:8:"cssClass";s:0:"";s:10:"isExternal";s:1:"0";}}}}}

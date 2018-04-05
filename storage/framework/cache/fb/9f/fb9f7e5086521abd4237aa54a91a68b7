@@ -1,0 +1,69 @@
+1521386368a:1:{s:10:"slider.htm";a:7:{s:8:"fileName";s:10:"slider.htm";s:7:"content";s:976:"[viewBag]
+
+[slideshow]
+slideshow = 1
+numberOfSlide = 5
+==
+<div id="slider" class="clearfix">
+    <div id="slide" class="flexslider">
+
+
+        {% if slideshow.slideshow.slides %}
+        <ul class="slides">
+            {% for i, slide in slideshow.slideshow.slides %}
+                <li>
+                    <a href="#" title="{{ slide.image.title }}"
+                       rel="bookmark">
+                        <img width="770" height="364"
+                             src="{{ slide.image.path }}"
+                             alt="{{ slide.image.title }}"/>
+                    </a>
+                    <div class="entry">
+                        {% if slide.name %}<h4>{{ slide.name }}</h4>{% endif %}
+                        {% if slide.description %}<p>{{ slide.description|raw }}</p>{% endif %}
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+
+
+
+
+
+
+
+
+    </div>
+</div>";s:5:"mtime";i:1510230796;s:6:"markup";s:912:"<div id="slider" class="clearfix">
+    <div id="slide" class="flexslider">
+
+
+        {% if slideshow.slideshow.slides %}
+        <ul class="slides">
+            {% for i, slide in slideshow.slideshow.slides %}
+                <li>
+                    <a href="#" title="{{ slide.image.title }}"
+                       rel="bookmark">
+                        <img width="770" height="364"
+                             src="{{ slide.image.path }}"
+                             alt="{{ slide.image.title }}"/>
+                    </a>
+                    <div class="entry">
+                        {% if slide.name %}<h4>{{ slide.name }}</h4>{% endif %}
+                        {% if slide.description %}<p>{{ slide.description|raw }}</p>{% endif %}
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+
+
+
+
+
+
+
+
+    </div>
+</div>";s:4:"code";N;s:7:"viewBag";a:0:{}s:9:"slideshow";a:2:{s:9:"slideshow";s:1:"1";s:13:"numberOfSlide";s:1:"5";}}}
